@@ -1,0 +1,5 @@
+applications:
+- name:      jason-node-simple
+  domain:    mybluemix.net
+  command:   node app.js
+  memory:    128M
